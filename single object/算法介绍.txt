@@ -1,0 +1,3 @@
+lie_k_n.m：线性规划求解单目标最优值
+main:main函数
+or_jz、xor_j：辅助计算

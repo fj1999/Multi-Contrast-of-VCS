@@ -1,0 +1,5 @@
+lie_k_n_level_mul_obj.m：层次分析法不添加m张叠加对比度必须大于h张叠加对比度（m>h）的约束条件
+lie_k_n_mul_obj_two.m：层次分析法不添加m张叠加对比度必须大于h张叠加对比度（m>h）的约束条件
+lie_k_n_mul_obj.m：层次分析法添加m张叠加对比度必须大于h张叠加对比度（m>h）的约束条件
+main:main函数
+or_jz、xor_j：辅助计算

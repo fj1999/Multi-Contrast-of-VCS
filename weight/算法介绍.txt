@@ -1,0 +1,3 @@
+lie_k_n_weight.m：权重法求解多对比度规划问题最优解
+main:main函数
+or_jz、xor_j：辅助计算
